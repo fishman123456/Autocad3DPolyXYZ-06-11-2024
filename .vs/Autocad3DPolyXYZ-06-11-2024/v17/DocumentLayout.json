@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fishman_1\\source\\repos\\Autocad3DPolyXYZ-06-11-2024\\",
+  "WorkspaceRootPath": "D:\\Github\\Autocad3DPolyXYZ-06-11-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2BF4CF5-C08E-4BB5-9203-4278503C59F6}|Autocad3DPolyXYZ-06-11-2024.csproj|c:\\users\\fishman_1\\source\\repos\\autocad3dpolyxyz-06-11-2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BF4CF5-C08E-4BB5-9203-4278503C59F6}|Autocad3DPolyXYZ-06-11-2024.csproj|d:\\github\\autocad3dpolyxyz-06-11-2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BF4CF5-C08E-4BB5-9203-4278503C59F6}|Autocad3DPolyXYZ-06-11-2024.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Fishman_1\\source\\repos\\Autocad3DPolyXYZ-06-11-2024\\Class1.cs",
+              "DocumentMoniker": "D:\\Github\\Autocad3DPolyXYZ-06-11-2024\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\Fishman_1\\source\\repos\\Autocad3DPolyXYZ-06-11-2024\\Class1.cs",
+              "ToolTip": "D:\\Github\\Autocad3DPolyXYZ-06-11-2024\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowCEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T15:07:25.663Z",
               "EditorCaption": ""

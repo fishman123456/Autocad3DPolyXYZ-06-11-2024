@@ -10,6 +10,7 @@ using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.Geometry;
 using Application = Autodesk.AutoCAD.ApplicationServices.Application;
+using Autodesk.AutoCAD.GraphicsInterface;
 
 
 public class Class1
@@ -30,9 +31,10 @@ public void Draw3DPolyline(Point3dCollection points)
             Point3d nearestPoint = FindNearestPoint(currentPoint, points);
 
                 //poly.AppendVertex(i, currentPoint, 0, 0, 0);
-                
+                PolylineVertex3d polylineVertex3D = new PolylineVertex3d();
+                poly.AppendVertex(polylineVertex3D);
                 //poly.AppendVertex(currentPoint);
-        }
+            }
 
         btr.AppendEntity(poly);
         tr.AddNewlyCreatedDBObject(poly, true);
